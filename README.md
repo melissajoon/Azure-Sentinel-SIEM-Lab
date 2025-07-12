@@ -82,13 +82,6 @@ All screenshots from the lab setup and visualizations are stored in the structur
 
 ---
 
-## 🚧 Project Status
-
-🔄 Currently in progress
-🗕️ Week 3 of 6 – Setting up alert rules and preparing to simulate brute-force attack
-
----
-
 ## 👤 Contact
 
 **Melissa Jahani**
